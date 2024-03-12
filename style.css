@@ -92,6 +92,7 @@ span{
     position: relative;
     margin-top: 15px;
     border-bottom: 2px solid crimson;
+    width:100%;
 }
 i{
     position: absolute;
